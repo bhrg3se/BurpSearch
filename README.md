@@ -1,2 +1,2 @@
 # BurpSearch
-Script to search inside all text files inside a folde recursively
+Script to search inside all text files inside a folder recursively
